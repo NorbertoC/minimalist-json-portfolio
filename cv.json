@@ -1,36 +1,89 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Norberto Carosella",
+    "label": "Experienced Frontend Developer with over 9 years of experience in Web Development",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "norberto.carosella@gmail.com",
+    "phone": "027 755 0078",
+    "url": "https://norberto.com",
+    "summary": "Highly motivated Front-End Developer with 9+ years of experience building user-centric web applications. Leveraging expertise in JavaScript, React, and Node.js, I create engaging and dynamic user interfaces that bridge the gap between user needs and code. Proven ability to deliver high-quality applications across diverse industries (AgTech, Crypto, Travel).  A quick learner and problem-solver, I can seamlessly integrate into new teams and hit the ground running.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Auckland",
+      "postalCode": "0622",
+      "city": "Auckland",
+      "countryCode": "NZ",
+      "region": "New Zealand"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
-    }]
-  },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "NorbertoC",
+        "url": "https://github.com/norbertoc"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "norberto-carosella",
+        "url": "https://www.linkedin.com/in/norberto-carosella/"
+      }
     ]
-  }],
+  },
+  "work": [
+    {
+      "name": "BeMap",
+      "position": "Frontend Developer (part-time)",
+      "url": "https://www.bemap.co.jp/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-29",
+      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "highlights": [
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+      ]
+    },
+    {
+      "name": "Autogrow | WayBeyond",
+      "position": "Senior Frontend Developer",
+      "url": "https://www.waybeyond.io/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-29",
+      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "highlights": [
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+      ]
+    },
+    {
+      "name": "BeMap",
+      "position": "Frontend Developer (part-time)",
+      "url": "https://www.bemap.co.jp/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-29",
+      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "highlights": [
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+      ]
+    },
+    {
+      "name": "BeMap",
+      "position": "Frontend Developer (part-time)",
+      "url": "https://www.bemap.co.jp/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-29",
+      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "highlights": [
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+      ]
+    },
+    {
+      "name": "BeMap",
+      "position": "Frontend Developer (part-time)",
+      "url": "https://www.bemap.co.jp/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-29",
+      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "highlights": [
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+      ]
+    }
+  ],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
@@ -73,19 +126,120 @@
     "url": "https://publication.com",
     "summary": "Description…"
   }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "FullStack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source code",
+        "Git"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic"
+    }
+  ],
   "interests": [{
     "name": "Wildlife",
     "keywords": [
