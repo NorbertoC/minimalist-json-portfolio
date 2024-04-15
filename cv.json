@@ -36,51 +36,70 @@
       "endDate": "2024-02-29",
       "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
       "highlights": [
-        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\n",
+        "Played a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\n",
+        "Collaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
       ]
     },
     {
       "name": "Autogrow | WayBeyond",
       "position": "Senior Frontend Developer",
       "url": "https://www.waybeyond.io/",
-      "startDate": "2023-08-01",
+      "startDate": "2019-02-01",
       "endDate": "2024-02-29",
-      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "summary": "WayBeyond.io is a New Zealand company that uses data and AI to help protected crop growers optimize yield and resource use in their greenhouses.",
       "highlights": [
-        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\n",
+        "Played a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\n",
+        "Collaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
       ]
     },
     {
-      "name": "BeMap",
-      "position": "Frontend Developer (part-time)",
-      "url": "https://www.bemap.co.jp/",
-      "startDate": "2023-08-01",
-      "endDate": "2024-02-29",
-      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "name": "Kubikware | Gemini Crypto Exchange",
+      "position": "React Native Developer (Contractor)",
+      "url": "",
+      "startDate": "2018-04-01",
+      "endDate": "2018-09-01",
+      "summary": "The Gemini crypto app lets you securely buy, sell, store, and track various cryptocurrencies, all in one place.",
       "highlights": [
-        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+        "Contributed to the on-time delivery of a critical mobile application for Gemini, a leading US cryptocurrency exchange, by maintaining its stability through proactive bug identification and resolution.\n",
+        "Enhanced user experience by implementing custom loading animations (e.g., post-purchase confirmations, screen transitions) to provide visual feedback and reduce perceived wait times.\n"
       ]
     },
     {
-      "name": "BeMap",
-      "position": "Frontend Developer (part-time)",
-      "url": "https://www.bemap.co.jp/",
-      "startDate": "2023-08-01",
-      "endDate": "2024-02-29",
-      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "name": "Vault Consulting SRL | Almundo",
+      "position": "React Native Developer (Contractor)",
+      "url": "",
+      "startDate": "2017-07-01",
+      "endDate": "2018-02-01",
+      "summary": "VAULT Consulting, a recognized Argentinian tech company for over 10 years, offers a variety of IT solutions like software development and cloud computing to national and international businesses. The Almundo app allows users to search, compare, and book flights, hotels, and travel packages.",
       "highlights": [
-        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+        "Collaborated with the client-side team to recommend UX/UI improvements, actively contributing to user-centric design sessions. This collaborative approach played a key role in Almundo's app growth, experiencing a surge from 50,000 to 100,000 downloads during my involvement – a significant impact for a leading Latin American travel agency.\n",
+        "Implemented the successful Disney Section, a promotional package that boosted sales of all-inclusive Disney trips.\n"
       ]
     },
     {
-      "name": "BeMap",
-      "position": "Frontend Developer (part-time)",
-      "url": "https://www.bemap.co.jp/",
-      "startDate": "2023-08-01",
-      "endDate": "2024-02-29",
-      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "name": "Avenga / IncluiIT | www.incluit.com",
+      "position": "Frontend Developer",
+      "url": "https://www.incluit.com",
+      "startDate": "2016-08-01",
+      "endDate": "2017-07-01",
+      "summary": "Avenga, a software development company, offers services including strategy, solution engineering, and staffing. They recently acquired IncluIT, a software development company in Córdoba, Argentina.",
       "highlights": [
-        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\nPlayed a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\nCollaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+        "Contributed to two client projects at a Consulting agency:\n",
+        "  * McAfee (previously Intel Security): Utilized AngularJS and Redux for maintenance and bug-fixing tasks within a secure development environment.\n",
+        "  * Avaya: Migrated a legacy Windows desktop application to React Native as the sole React Native developer. \n"
+      ]
+    },
+    {
+      "name": "Globant | www.globant.com",
+      "position": "Junior Frontend Developer",
+      "url": "https://www.globant.com",
+      "startDate": "2015-03-01",
+      "endDate": "2016-08-01",
+      "summary": "Argentinian IT giant Globant helps businesses digitally transform through a blend of design, engineering, and innovation, working with major clients like Google and boasting expertise in AI and customer experience.",
+      "highlights": [
+        "Supported migration and maintenance of National Geographic web app: Utilized jQuery and Knockout JS for ongoing maintenance of the existing application, and contributed to its migration to a modern stack including AngularJS, Webpack, HTML5, and SASS.\n"
       ]
     }
   ],
@@ -95,18 +114,24 @@
       "Awarded 'Volunteer of the Month'"
     ]
   }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "Open Polytechnic",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Graduate Certificate",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01"
+    },
+    {
+      "institution": "Universidad Siglo 21",
+      "url": "",
+      "area": "Software Engineering",
+      "studyType": "Bachelor (Not Completed)",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01"
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -224,6 +249,105 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Angular",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Framework",
+        "Single Page Application"
+      ]
+    },
+    {
+      "name": "Redux",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "State Management"
+      ]
+    },
+    {
+      "name": "Zustand",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "State Management"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "DOM Manipulation"
+      ]
+    },
+    {
+      "name": "Webpack",
+      "keywords": [
+        "Web Development",
+        "Build Tool",
+        "Bundler",
+        "Module Bundler"
+      ]
+    },
+    {
+      "name": "AWS",
+      "keywords": [
+        "Cloud Computing",
+        "Amazon Web Services",
+        "Infrastructure as a Service",
+        "Platform as a Service"
+      ]
+    },
+    {
+      "name": "PHP",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Server-side scripting",
+        "Programming Language"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Framework",
+        "Single Page Application"
+      ]
+    },
+    {
+      "name": "Android",
+      "keywords": [
+        "Mobile Development",
+        "Operating System",
+        "Kotlin",
+        "Native Development"
+      ]
+    },
+    {
+      "name": "iOS",
+      "keywords": [
+        "Mobile Development",
+        "Operating System",
+        "Swift",
+        "Objective-C",
+        "Native Development"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "keywords": [
+        "Web Development",
+        "API Query Language",
+        "Data Fetching"
+      ]
     }
   ],
   "languages": [
@@ -253,45 +377,72 @@
   }],
   "projects": [
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "VAULT Consulting SRL | Almundo",
+      "url": "",
+      "startDate": "2017-07-01",
+      "endDate": "2018-02-01",
       "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/",
-      "isActive": true
+        "Collaborated with the client-side team to recommend UX/UI improvements, actively contributing to user-centric design sessions. This collaborative approach played a key role in Almundo's app growth, experiencing a surge from 50,000 to 100,000 downloads during my involvement – a significant impact for a leading Latin American travel agency.\n",
+        "Implemented the successful \"Disney Section,\" a promotional package that boosted sales of all-inclusive Disney trips.\n"
+      ]
     },
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Avenga / IncluiIT",
+      "url": "[https://www.incluit.com](https://www.incluit.com)",
+      "startDate": "2016-08-01",
+      "endDate": "2017-07-01",
       "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+        "Contributed to two client projects at a Consulting agency:\n",
+        "  * McAfee (previously Intel Security): Utilized AngularJS and Redux for maintenance and bug-fixing tasks within a secure development environment.\n",
+        "  * Avaya: Migrated a legacy Windows desktop application to React Native as the sole React Native developer. \n"
+      ]
     },
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Globant",
+      "url": "[https://www.globant.com](https://www.globant.com)",
+      "startDate": "2015-03-01",
+      "endDate": "2016-08-01",
       "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+        "Supported migration and maintenance of National Geographic web app: Utilized jQuery and Knockout JS for ongoing maintenance of the existing application, and contributed to its migration to a modern stack including AngularJS, Webpack, HTML5, and SASS.\n"
+      ]
     },
     {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Description...",
+      "name": "Kubikware | Gemini Crypto Exchange",
+      "position": "React Native Developer (Contractor)",
+      "url": "",
+      "startDate": "2018-04-01",
+      "endDate": "2018-09-01",
+      "summary": "The Gemini crypto app lets you securely buy, sell, store, and track various cryptocurrencies, all in one place.",
       "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+        "Contributed to the on-time delivery of a critical mobile application for Gemini, a leading US cryptocurrency exchange, by maintaining its stability through proactive bug identification and resolution.\n",
+        "Enhanced user experience by implementing custom loading animations (e.g., post-purchase confirmations, screen transitions) to provide visual feedback and reduce perceived wait times.\n"
+      ]
+    },
+    {
+      "name": "Autogrow | WayBeyond",
+      "position": "Senior Frontend Developer",
+      "url": "https://www.waybeyond.io/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-29",
+      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "highlights": [
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\n",
+        "Played a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\n",
+        "Collaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+      ]
+    },
+    {
+      "name": "BeMap",
+      "position": "Frontend Developer (part-time)",
+      "url": "https://www.bemap.co.jp/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-02-29",
+      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "highlights": [
+        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\n",
+        "Played a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\n",
+        "Collaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+      ]
     }
   ]
 }
