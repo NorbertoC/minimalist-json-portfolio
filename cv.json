@@ -378,6 +378,8 @@
   "projects": [
     {
       "name": "VAULT Consulting SRL | Almundo",
+      "isActive": false,
+      "description": "",
       "url": "",
       "startDate": "2017-07-01",
       "endDate": "2018-02-01",
@@ -388,6 +390,8 @@
     },
     {
       "name": "Avenga / IncluiIT",
+      "isActive":  false,
+      "description":  "",
       "url": "[https://www.incluit.com](https://www.incluit.com)",
       "startDate": "2016-08-01",
       "endDate": "2017-07-01",
@@ -399,6 +403,8 @@
     },
     {
       "name": "Globant",
+      "isActive":  false,
+      "description":  "",
       "url": "[https://www.globant.com](https://www.globant.com)",
       "startDate": "2015-03-01",
       "endDate": "2016-08-01",
@@ -408,6 +414,8 @@
     },
     {
       "name": "Kubikware | Gemini Crypto Exchange",
+      "isActive":  false,
+      "description":  "",
       "position": "React Native Developer (Contractor)",
       "url": "",
       "startDate": "2018-04-01",
@@ -420,6 +428,8 @@
     },
     {
       "name": "Autogrow | WayBeyond",
+      "isActive":  false,
+      "description":  "",
       "position": "Senior Frontend Developer",
       "url": "https://www.waybeyond.io/",
       "startDate": "2023-08-01",
@@ -433,6 +443,8 @@
     },
     {
       "name": "BeMap",
+      "isActive":  false,
+      "description":  "",
       "position": "Frontend Developer (part-time)",
       "url": "https://www.bemap.co.jp/",
       "startDate": "2023-08-01",
