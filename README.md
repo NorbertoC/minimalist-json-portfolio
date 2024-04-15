@@ -1,7 +1,4 @@
-
-
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
 <h2>
     Web and pdf minimalist <em>resume</em>
 </h2>
