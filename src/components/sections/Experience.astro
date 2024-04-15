@@ -10,6 +10,10 @@ import { work } from "@cv";
 			const startYear = new Date(startDate).getFullYear();
 			const endYear = endDate !== null ? new Date(endDate).getFullYear() : "Current";
 			const years = `${startYear} - ${endYear}`
+      <!--const highlightsInfo = highlights.filter(Boolean).join(" • ")-->
+      const highlightsInfo = highlights.filter(Boolean).map((highlight, index) => (
+        <p key={index}> • {highlight}</p>
+      ));
 			
 			return (
         <li>
@@ -59,4 +63,9 @@ import { work } from "@cv";
 			color: #555;
 			font-size: 0.85rem;
 	}
+  
+  footer p {
+    display: flex;
+    margin-top: 4px;
+  }
 </style>
