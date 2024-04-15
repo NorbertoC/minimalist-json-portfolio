@@ -34,11 +34,11 @@
       "url": "https://www.bemap.co.jp/",
       "startDate": "2023-08-01",
       "endDate": "2024-02-29",
-      "summary": "Bemap is a Japanese company that integrates mobile features and systems, offering development for railways, Wi-Fi, security cameras, TV data, and websites. ",
+      "summary": "Built a new Angular 16/TypeScript app & key PoCs that secured partnerships. Collaborated on a successful client project.",
       "highlights": [
         "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\n",
-        "Played a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\n",
-        "Collaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
+        "Led the development and launch of the mobile application (React Native) from concept to deployment on the App Store and Google Play.\n",
+        "Documented company processes using Confluence to streamline onboarding procedures for new frontend developers.\n"
       ]
     },
     {
@@ -47,9 +47,9 @@
       "url": "https://www.waybeyond.io/",
       "startDate": "2019-02-01",
       "endDate": "2024-02-29",
-      "summary": "WayBeyond.io is a New Zealand company that uses data and AI to help protected crop growers optimize yield and resource use in their greenhouses.",
+      "summary": "Led front-end architecture & CI/CD setup (Github, AWS). Built & launched the mobile app (React Native) from concept to deployment. Documented processes for new hires.",
       "highlights": [
-        "Developed a brand-new application using Angular 16 and TypeScript, ensuring successful on-time delivery.\n",
+        "Spearheaded the development of the front-end architecture, establishing high-quality standards and implementing CI/CD with Github and AWS.\n",
         "Played a key role in securing new business partnerships by creating impactful Proof-of-Concepts (PoCs) in Angular 16.\n",
         "Collaborated closely with backend developer and designer to deliver the frontend of a successful client project.\n"
       ]
@@ -60,7 +60,7 @@
       "url": "",
       "startDate": "2018-04-01",
       "endDate": "2018-09-01",
-      "summary": "The Gemini crypto app lets you securely buy, sell, store, and track various cryptocurrencies, all in one place.",
+      "summary": "Contributed to on-time delivery & enhanced user experience with custom animations & proactive bug fixing for Gemini mobile app.",
       "highlights": [
         "Contributed to the on-time delivery of a critical mobile application for Gemini, a leading US cryptocurrency exchange, by maintaining its stability through proactive bug identification and resolution.\n",
         "Enhanced user experience by implementing custom loading animations (e.g., post-purchase confirmations, screen transitions) to provide visual feedback and reduce perceived wait times.\n"
@@ -72,19 +72,19 @@
       "url": "",
       "startDate": "2017-07-01",
       "endDate": "2018-02-01",
-      "summary": "VAULT Consulting, a recognized Argentinian tech company for over 10 years, offers a variety of IT solutions like software development and cloud computing to national and international businesses. The Almundo app allows users to search, compare, and book flights, hotels, and travel packages.",
+      "summary": "Collaborated on UX/UI improvements & implemented the successful \"Disney Section\" that boosted sales. Contributed to user base growth (50k to 100k downloads).",
       "highlights": [
         "Collaborated with the client-side team to recommend UX/UI improvements, actively contributing to user-centric design sessions. This collaborative approach played a key role in Almundo's app growth, experiencing a surge from 50,000 to 100,000 downloads during my involvement – a significant impact for a leading Latin American travel agency.\n",
         "Implemented the successful Disney Section, a promotional package that boosted sales of all-inclusive Disney trips.\n"
       ]
     },
     {
-      "name": "Avenga / IncluiIT | www.incluit.com",
+      "name": "Avenga | IncluiIT",
       "position": "Frontend Developer",
       "url": "https://www.incluit.com",
       "startDate": "2016-08-01",
       "endDate": "2017-07-01",
-      "summary": "Avenga, a software development company, offers services including strategy, solution engineering, and staffing. They recently acquired IncluIT, a software development company in Córdoba, Argentina.",
+      "summary": "Utilized AngularJS & Redux for maintenance/bug fixing (McAfee) & migrated legacy app to React Native (Avaya).",
       "highlights": [
         "Contributed to two client projects at a Consulting agency:\n",
         "  * McAfee (previously Intel Security): Utilized AngularJS and Redux for maintenance and bug-fixing tasks within a secure development environment.\n",
@@ -97,7 +97,7 @@
       "url": "https://www.globant.com",
       "startDate": "2015-03-01",
       "endDate": "2016-08-01",
-      "summary": "Argentinian IT giant Globant helps businesses digitally transform through a blend of design, engineering, and innovation, working with major clients like Google and boasting expertise in AI and customer experience.",
+      "summary": "Supported migration & maintenance of National Geographic web app (jQuery, KnockoutJS) to a modern stack (AngularJS, Webpack, HTML5, SASS).",
       "highlights": [
         "Supported migration and maintenance of National Geographic web app: Utilized jQuery and Knockout JS for ongoing maintenance of the existing application, and contributed to its migration to a modern stack including AngularJS, Webpack, HTML5, and SASS.\n"
       ]
